@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/LuanMarquesDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanMarquesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMarquesDev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMarquesDev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -29,7 +29,7 @@
 
   ##
   
-  ![Snake animation](https://github.com/rafaballerini/LuanMarquesDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuanMarquesDev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
