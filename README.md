@@ -1,4 +1,4 @@
- Hi 👋 My name is Luan Marques 
+ Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> My name is Luan Marques 
 ==========================
 
 Software Developer - Programmer :heavy_check_mark:
@@ -17,10 +17,10 @@ Software Developer - Programmer :heavy_check_mark:
 * 🚀 I am currently working at [ULTRA-i Softwares](http://www.ultrai.com.br/)
 * 🧠 At the moment I'm focused on developing skills in C# and SQL Server
 * 🤝 I'm open to collaborate on projects that have a high impact on people's lives
-* ⚡ I love sports and video games
+* ⚡ I love football and play video games
 
 <a href="https://www.github.com/LuanMarquesDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LuanMarquesDev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/LuanMarquesDev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a><img src="https://img.icons8.com/color/48/000000/corinthians.png" height="28px">
 
 <div align="center">
  
