@@ -20,7 +20,8 @@ Software Developer - Programmer :heavy_check_mark:
 * ⚡ I love football and play video games
 
 <a href="https://www.github.com/LuanMarquesDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LuanMarquesDev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a><img src="https://img.icons8.com/color/48/000000/corinthians.png" height="28px">
+src="https://img.shields.io/github/followers/LuanMarquesDev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<img src="https://img.icons8.com/color/48/000000/corinthians.png" height="28px">
 
 <div align="center">
  
@@ -88,16 +89,7 @@ Socials:
   
 </div>
 
-Support:
------------------------------
 
-<div>
- 
- <a href="https://www.buymeacoffee.com/LuanMarquesDev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
- 
-</div> 
-
-## 
   
 <div align="center">
  
