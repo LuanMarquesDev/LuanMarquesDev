@@ -58,7 +58,7 @@ Languages and Tools:
   <img align="center" alt="git" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
   
   <img align="center" alt="visualstudio" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png">
-  <img align="center" alt="visualstudiocode" height="36" width="36" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+  <img align="center" alt="visualstudiocode" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
   
 </div>
 
