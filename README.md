@@ -51,14 +51,6 @@ Languages and Tools:
   <img align="center" alt="java" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
   <img align="center" alt="python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
   
-  <img align="center" alt="bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> 
-  
-   <img align="center" alt="flutter" width="40" height="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png"/> 
-   <img align="center" alt="dart" width="40" height="40" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png"/> 
-   <img align="center" alt="android" width="40" height="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"/> 
-   <img align="center" alt="ios" width="40" height="40" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png"/> 
-  
   <img align="center" alt="aws" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
   <img align="center" alt="azure" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png">
   
@@ -68,8 +60,6 @@ Languages and Tools:
   <img align="center" alt="visualstudio" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png">
   <img align="center" alt="visualstudiocode" height="36" width="36" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
   
-  <img align="center" alt="docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>   
-  <img align="center" alt="postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
   <img align="center" alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/> 
   
 </div>
