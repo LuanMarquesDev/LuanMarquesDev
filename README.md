@@ -60,8 +60,6 @@ Languages and Tools:
   <img align="center" alt="visualstudio" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png">
   <img align="center" alt="visualstudiocode" height="36" width="36" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
   
-  <img align="center" alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/> 
-  
 </div>
 
 Socials:
@@ -79,8 +77,6 @@ Socials:
   
 </div>
 
-
-  
 <div align="center">
  
    ![Snake animation](https://github.com/LuanMarquesDev/LuanMarquesDev/blob/output/github-contribution-grid-snake.svg)
