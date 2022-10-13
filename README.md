@@ -13,7 +13,7 @@ Software Developer - Programmer :heavy_check_mark:
 <br>
 
 * 🌍 I am based in São Paulo, Brazil
-* ✉️ You can contact me at [luanmarques0307@gmail.com](malito:luanmarques0307@gmail.com)
+* ✉️ You can contact me at [luanmarques0307@gmail.com](mailto:luanmarques0307@gmail.com)
 * 🚀 I am currently working at [ULTRA-i Softwares](http://www.ultrai.com.br/)
 * 🧠 At the moment I'm focused on developing skills in C# and SQL Server
 * 🤝 I'm open to collaborate on projects that have a high impact on people's lives
@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/LuanMarquesDev?logo=github&style=fo
 Languages and Tools:
 -----------------------------
 
-<div style="display: inline_block" align=center><br>
+<div style="display: inline_block" align=center>
   
   <img align="center" alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
