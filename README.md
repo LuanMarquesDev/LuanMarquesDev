@@ -1,12 +1,16 @@
  Hi 👋 My name is Luan Marques 
 ==========================
 
-Software Developer - Programmer
+Software Developer - Programmer :heavy_check_mark:
 -----------------------------
 
-I am a 19 year old developer. I love coding and figuring out how to solve problems using cutting edge technology. My main focus is front and back-end development and also Software Development (Desktop Applications), making applications that impact the lives of thousands of users.
+<div align="justify"> I am a 19 year old developer. I love coding and figuring out how to solve problems using cutting edge technology. My main focus is front and back-end development and also Software Development (Desktop Applications), making applications that impact the lives of thousands of users. </div>
 
-I'm a student at [Uninove](https://www.uninove.br/), and I'm studying Systems Analysis and Development and with a plan to do a Graduate Degree in [Software Engineering](https://www.fit.edu/lp/computing-undergraduate-programs/).
+<br>
+
+<div align="justify"> I'm a student at <a href="https://www.uninove.br/">Uninove</a>, and I'm studying Systems Analysis and Development and with a plan to do a Graduate Degree in <a href="https://www.fit.edu/lp/computing-undergraduate-programs/">Software Engineering</a>.</div>
+
+<br>
 
 * 🌍 I am based in São Paulo, Brazil
 * ✉️ You can contact me at [luanmarques0307@gmail.com](malito:luanmarques0307@gmail.com)
@@ -68,8 +72,6 @@ Languages and Tools:
   <img align="center" alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/> 
   
 </div>
-  
-##
 
 Socials:
 -----------------------------
@@ -85,22 +87,20 @@ Socials:
   <a href="https://api.whatsapp.com/send/?phone=5511975251553&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 </div>
-  
-##
 
 Support:
 -----------------------------
 
 <div>
+ 
+ <a href="https://www.buymeacoffee.com/LuanMarquesDev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+ 
+</div> 
 
-  <p><a href="https://www.buymeacoffee.com/Luan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luan"> </a></p>
-  
-</div>
-
-<br><br> 
 ## 
   
-<div>
-   ![Snake animation](https://github.com/LuanMarquesDev/LuanMarquesDev/blob/output/github-contribution-grid- snake.svg)
-</div>
+<div align="center">
+ 
+   ![Snake animation](https://github.com/LuanMarquesDev/LuanMarquesDev/blob/output/github-contribution-grid-snake.svg)
 
+</div>
