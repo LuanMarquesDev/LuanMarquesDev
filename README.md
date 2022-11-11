@@ -14,7 +14,7 @@ Software Developer - Programmer :heavy_check_mark:
 
 * 🌍 I am based in São Paulo, Brazil
 * ✉️ You can contact me at [luanmarques0307@gmail.com](mailto:luanmarques0307@gmail.com)
-* 🚀 I am currently working at [ULTRA-i Softwares](http://www.ultrai.com.br/)
+* 🚀 I am currently working at [ULTRA-i Softwares](http://www.ultrai.com.br/) - C#, VB.Net, SQL Server and SAP Crystal Reports
 * 🧠 At the moment I'm focused on developing skills in C# and SQL Server
 * 🤝 I'm open to collaborate on projects that have a high impact on people's lives
 * ⚡ I love football and play video games
@@ -45,13 +45,13 @@ Languages and Tools:
   <img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="dotnetcore" width="40" height="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"/>  
   <img align="center" alt="dotnetmicrosoft" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
-  
+
   <img align="center" alt="sqlserver" width="40" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>  
   <img align="center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> 
   
   <img align="center" alt="java" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
   <img align="center" alt="python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
-  
+ 
   <img align="center" alt="aws" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
   <img align="center" alt="azure" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png">
   
