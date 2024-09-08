@@ -4,17 +4,17 @@
 Software Developer - Programmer :heavy_check_mark:
 -----------------------------
 
-<div align="justify"> I am a 19 year old developer. I love coding and figuring out how to solve problems using cutting edge technology. My main focus is front and back-end development and also Software Development (Desktop Applications), making applications that impact the lives of thousands of users. </div>
+<div align="justify"> I am a 21 year old developer. I love coding and figuring out how to solve problems using cutting edge technology. My main focus is front and back-end development and also Software Development (Desktop Applications), making applications that impact the lives of thousands of users. </div>
 
 <br>
 
-<div align="justify"> I'm a student at <a href="https://www.uninove.br/">Uninove</a>, and I'm studying Systems Analysis and Development and with a plan to do a Graduate Degree in <a href="https://www.fit.edu/lp/computing-undergraduate-programs/">Software Engineering</a>.</div>
+<div align="justify">I have a degree in Systems Analysis and Development at <a href="https://www.uninove.br/">Uninove</a> and I am currently studying a postgraduate degree in Full Stack Development at <a href="https://www.fiap.com.br/">FIAP</a></div>
 
 <br>
 
 * 🌍 I am based in São Paulo, Brazil
 * ✉️ You can contact me at [luanmarques0307@gmail.com](mailto:luanmarques0307@gmail.com)
-* 🚀 I am currently working at [ULTRA-i Softwares](http://www.ultrai.com.br/) - C#, VB.Net, SQL Server and SAP Crystal Reports
+* 🚀 I am currently working at [Intuo Softwares](https://intuo.com.br/) - C#, VB.Net, SQL Server and SAP Crystal Reports
 * 🧠 At the moment I'm focused on developing skills in C# and SQL Server
 * 🤝 I'm open to collaborate on projects that have a high impact on people's lives
 * ⚡ I love football and play video games
